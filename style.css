@@ -1,0 +1,19 @@
+
+h1{
+    background-color: black;
+    color: white;
+    font-weight: bolder;
+}
+
+h2{
+    background-color: #663398;
+    color: white;
+    text-align: center;
+}
+
+h3{
+   background-color:#9fc4f8 ;
+    color:#18215c;
+    text-align: right;
+    text-decoration:underline ;
+}
